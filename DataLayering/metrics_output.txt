@@ -1,0 +1,16 @@
+
+==================================================
+Overlap Analysis
+==================================================
+
+Overlap Metrics:
+------------------------------
+Total overlap area: 16338.43
+Proportion of overlap to original: 65.95%
+Proportion of overlap to PCA: 100.00%
+
+Error estimates:
+  - Original: 2.01e-01
+  - PCA: 1.35e-01
+  - Overlap: 1.35e-01
+==================================================
